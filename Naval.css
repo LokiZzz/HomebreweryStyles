@@ -26,13 +26,13 @@
 
 @font-face {
   font-family: 'DEUX';
-  src: url('https://github.com/LokiZzz/HomebreweryStyles/blob/main/Fonts/DEUX.ttf')
+  src: url('https://lokizzz.github.io/HomebreweryStyles/Fonts/DEUX.ttf')
 }
 
 .phb {
   font-family: DEUX;
   
-  background: url('https://groumy.github.io/homebrewery-sotdl/images/sotdl-background-small.jpg');
+  background: url('');
   background-size: contain;
   background-repeat: no-repeat;
 }
