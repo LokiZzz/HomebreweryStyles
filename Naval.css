@@ -32,13 +32,13 @@
 .phb {
   font-family: DEUX;
   
-  background: url('');
+  /* background: url('');
   background-size: contain;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
 }
 
 .phb h1{
-  font-family: "First Order";
+  font-family: "DEUX";
   font-size: 400%;
   text-align: center;
   text-shadow: 0px 0px 5px black;
